@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1510127739 source:c:\users\hrishav\desktop\paradise_cpp\paradise_cpp\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1510127740 c:\users\hrishav\desktop\paradise_cpp\paradise_cpp\conio2.h
+	<conio.h>
+	<windows.h>
+
+1511633454 source:c:\users\hrishav\desktop\paradise_cpp\paradise_cpp\main.cpp
+	<iostream>
+	<stdio.h>
+	"conio2.h"
+	<string.h>
+	<process.h>
+	<stdlib.h>
+	<unordered_map>
+	<vector>
+	<math.h>
+	<queue>
+	<fstream>
+
+1555911676 source:c:\users\toshiva\desktop\gfhgfh\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1555911683 c:\users\toshiva\desktop\gfhgfh\conio2.h
+	<conio.h>
+	<windows.h>
+
+1555911690 source:c:\users\toshiva\desktop\gfhgfh\main.cpp
+	<iostream>
+	<stdio.h>
+	"conio2.h"
+	<string.h>
+	<process.h>
+	<stdlib.h>
+	<unordered_map>
+	<vector>
+	<math.h>
+	<queue>
+	<fstream>
+
+1555911676 source:c:\users\toshiva\desktop\dsproject\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1555911683 c:\users\toshiva\desktop\dsproject\conio2.h
+	<conio.h>
+	<windows.h>
+
+1555911690 source:c:\users\toshiva\desktop\dsproject\main.cpp
+	<iostream>
+	<stdio.h>
+	"conio2.h"
+	<string.h>
+	<process.h>
+	<stdlib.h>
+	<unordered_map>
+	<vector>
+	<math.h>
+	<queue>
+	<fstream>
+
